@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.backdoordonuts.com	TRUE	/	FALSE	1999999999	csrftoken	8t62ERSRs9M14hRGlg70ELg23TIWsywfCY7OSIoXbncVuXsgXua9nr0bS9iM2sDR
+www.backdoordonuts.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
